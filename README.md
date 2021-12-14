@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Web devlopment
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫  reach me  ayushraj.bitmesra7@gmail.com
 
 <!---
 AyushRaj00/AyushRaj00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
