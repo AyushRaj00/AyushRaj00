@@ -2,6 +2,9 @@
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Web devlopment
 - 💞️ I’m looking to collaborate on ...
+-⭐ I’m looking for Software engineering internship opportunities 🙋. I’m interested in solving problems and building software that impact people around me 🙌-
+-👨‍💻 I am passionate about Web Dev,  Competitive Programming & I enjoy learning new things.
+-⚡My competitive profiles: Codechef(3 Star) , Leetcode , Hackerrank , GeeksForGeeks
 - 📫  reach me  ayushraj.bitmesra7@gmail.com
 
 <!---
